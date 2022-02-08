@@ -1,0 +1,9 @@
+---
+Name: TrackingModule
+---
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - TrackingSiteConfigExtension
+Page:
+  extensions:
+    - TrackingPageExtension
