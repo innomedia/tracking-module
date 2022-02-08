@@ -1,5 +1,7 @@
 <?php
 
+namespace Tracking\Extensions;
+
 use SilverStripe\Forms\FieldList;
 use SilverStripe\Forms\TextareaField;
 use SilverStripe\ORM\DataExtension;

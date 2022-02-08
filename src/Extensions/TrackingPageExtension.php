@@ -1,5 +1,7 @@
 <?php
 
+namespace Tracking\Extensions;
+
 use SilverStripe\Control\Controller;
 use SilverStripe\Dev\Debug;
 use SilverStripe\ORM\DataExtension;
