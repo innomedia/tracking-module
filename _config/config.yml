@@ -3,7 +3,7 @@ Name: TrackingModule
 ---
 SilverStripe\SiteConfig\SiteConfig:
   extensions:
-    - TrackingSiteConfigExtension
+    - Tracking\Extensions\TrackingSiteConfigExtension
 Page:
   extensions:
-    - TrackingPageExtension
+    - Tracking\Extensions\TrackingPageExtension
