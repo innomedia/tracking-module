@@ -3,12 +3,12 @@
   "description": "Tracking Module",
   "authors": [
     {
-      "name":"Innomedia AG",
+      "name":"Moritz Sauer",
       "email": "ms@tietge.com"
     }
   ],
   "require":{
-    "silverstripe/recipe-cms": "^4"
+    "silverstripe/recipe-cms": "^4 | ^5"
   },
   "autoload": {
     "psr-4": {
